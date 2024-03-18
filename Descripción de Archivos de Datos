@@ -1,0 +1,19 @@
+Los archivos de datos se encuentran en la siguiente siguiente liga:
+https://drive.google.com/drive/folders/1SeiNI4K6q5Yl3nndPQvXcVbc2YTpiJHT?usp=sharing
+
+En ella poemos encontrar lo siguiente:
+- Carpeta: DataSets
+  - Datos_Actualizados_2023: Contiene datos actualizados al 2023.
+    - anime-dataset-2023.csv: This dataset contains comprehensive details of 24,905 anime entries.
+    - anime-filtered.csv: This dataset provide information about the different attributes and characteristics of each anime(Based on 2020 data).
+    - final_animedataset.csv: This dataset contains user ratings and information about various anime titles. It is curated for building an anime recommendation system(Based on 2018 data). The dataset includes the following
+    - user-filtered.csv: This dataset contains the user's ratings for every anime they watched and rated(Based on 2020 data).
+    - users-details-2023.csv: This dataset comprises information on 731,290 users registered on the MyAnimeList platform. It is worth noting that while a significant portion of these users are genuine anime enthusiasts, there may be instances of bots, inactive accounts, and alternate profiles present within the dataset.
+    - users-score-2023.csv: This dataset comprises anime scores provided by 270,033 users, resulting in a total of 24,325,191 rows or samples.
+  - Datos_Originales:  Contiene los datos proporsionados originalmente por el profesor.
+    - anime.csv: This dataset contains the data of the animes.
+    - rating.csv: This dataset contains the ranking of animes by user.
+  - Datos_Enriquecidos: Contiene los datos originales enriquecidos con los actualizados al 2023.
+    - anime_enriquesido.csv: Este data ser es el dataset de anime-dataset-2023.csv enriquecido con los animes faltantes de anime.csv.
+    - rating_enriquecido.csv: Este dataaset es la modificacion de users-details-2023 con el ranking de los animes faltantes de rating.csv.
+    - user_det.csv: Este dataset contiene los datos de los usuarios agregando los usuarios faltantes que aparecen en rating.csv.
