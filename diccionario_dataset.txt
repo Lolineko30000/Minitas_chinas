@@ -28,6 +28,27 @@
       -Licensors
       The licensors of the anime (e.g., streaming platforms).
     - rating_enriquecido.csv: Este dataaset es la modificacion de users-details-2023 con el ranking de los animes faltantes de rating.csv.
+      -Studios
+      The animation studios that worked on the anime.
+      -Source
+      The source material of the anime (e.g., manga, light novel, original).
+      -Duration
+      The duration of each episode.
+      -Rating
+      The age rating of the anime.
+      -Rank
+      The rank of the anime based on popularity or other criteria.
+      -Popularity
+      The popularity rank of the anime.
+      -Favorites
+      The number of times the anime was marked as a favorite by users.
+      -Scored By
+      The number of users who scored the anime.
+      -Members
+      The number of members who have added the anime to their list on the platform.
+      
+      Image URL
+      The URL of the anime's image or poster.
       -user_id
       User ID of the users.
       -anime_id
