@@ -17,3 +17,35 @@ En ella poemos encontrar lo siguiente:
     - anime_enriquesido.csv: Este data ser es el dataset de anime-dataset-2023.csv enriquecido con los animes faltantes de anime.csv.
     - rating_enriquecido.csv: Este dataaset es la modificacion de users-details-2023 con el ranking de los animes faltantes de rating.csv.
     - user_det.csv: Este dataset contiene los datos de los usuarios agregando los usuarios faltantes que aparecen en rating.csv.
+        -Mal ID
+        Unique ID for each user.
+        -Username
+        The username of the user.
+        -Gender
+        The gender of the user.
+        -Birthday
+        The birthday of the user (in ISO format).
+        -Location
+        The location or country of the user.
+        -Joined
+        The date when the user joined the platform (in ISO format).
+        -Days Watched
+        The total number of days the user has spent watching anime.
+        -Mean Score
+        The average score given by the user to the anime they have watched.
+        -Watching
+        The number of anime currently being watched by the user.
+        -Completed
+        The number of anime completed by the user.
+        -On Hold
+        The number of anime on hold by the user.
+        -Dropped
+        The number of anime dropped by the user.
+        -Plan to Watch
+        The number of anime the user plans to watch in the future.
+        -Total Entries
+        The total number of anime entries in the user's list.
+        -Rewatched
+        The number of anime rewatched by the user.
+        -Episodes Watched
+        The total number of episodes watched by th
