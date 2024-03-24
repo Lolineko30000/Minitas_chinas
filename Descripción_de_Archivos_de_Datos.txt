@@ -15,7 +15,41 @@ En ella poemos encontrar lo siguiente:
     - rating.csv: This dataset contains the ranking of animes by user.
   - Datos_Enriquecidos: Contiene los datos originales enriquecidos con los actualizados al 2023.
     - anime_enriquesido.csv: Este data ser es el dataset de anime-dataset-2023.csv enriquecido con los animes faltantes de anime.csv.
+      -anime_id
+      Unique ID for each anime.
+     - Name
+      The name of the anime in its original language.
+     - English name
+      The English name of the anime.
+      -Other name
+      Other names or titles of the anime in different languages.
+      -Score
+      The score or rating given to the anime.
+      -Genres
+      The genres of the anime, separated by commas.
+      -Synopsis
+      A brief description or summary of the anime's plot.
+      -Type
+      The type of the anime (e.g., TV series, movie, OVA, etc.).
+      -Episodes
+      The number of episodes in the anime.
+      -Aired
+      The dates when the anime was aired.
+      -Premiered
+      The season and year when the anime premiered.
+      -Status
+      The status of the anime (e.g., Finished Airing, Currently Airing, etc.).
+      -Producers
+      The production companies or producers of the anime.
+      -Licensors
+      The licensors of the anime (e.g., streaming platforms).
     - rating_enriquecido.csv: Este dataaset es la modificacion de users-details-2023 con el ranking de los animes faltantes de rating.csv.
+      -user_id
+      User ID of the users.
+      -anime_id
+      Anime ID of the animes user's watched.
+      -rating
+      The Score user gave to the anime.
     - user_det.csv: Este dataset contiene los datos de los usuarios agregando los usuarios faltantes que aparecen en rating.csv.
         -Mal ID
         Unique ID for each user.
